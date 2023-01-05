@@ -1,0 +1,71 @@
+body {
+    background-image: url(chill.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin: 220px;
+    padding: 0;
+}
+
+#FirstName:hover {
+    background-color: skyblue;
+}
+
+#LastName:hover {
+    background-color: skyblue;
+}
+
+#Email:hover {
+    background-color: skyblue;
+}
+
+#password:hover {
+    background-color: skyblue;
+}
+
+h3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgba(3, 121, 168, 0.919);
+}
+
+form {
+    text-align: center;
+    background-color: white;
+    width: 450px;
+    padding: 15px;
+    margin: 5% auto;
+}
+
+button {
+    width: 300px;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.Input {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 85%;
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 15px;
+}
+
+.signupbtn {
+    background-color: rgba(3, 121, 168, 0.919);
+    font-family: Arial Black;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+.loginbtn {
+    background-color: rgb(35, 81, 98);
+    font-family: Tahoma;
+    font-size: 18px;
+    border-radius: 20px;
+}
